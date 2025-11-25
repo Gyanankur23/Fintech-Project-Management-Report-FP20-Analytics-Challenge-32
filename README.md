@@ -52,4 +52,4 @@ Thanks to **FP20 Analytics** and **ZoomCharts** for organizing this challenge an
 
 ## 📌 Author  
 **Gyanankur Baruah**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/gyanankurbaruah)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/gyanankur-baruah)
