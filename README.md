@@ -1,11 +1,14 @@
 # FP20 Fintech Project Management Report
 
 ## 📊 Challenge Overview  
-This repository contains my submission for the **FP20Analytics Fintech Project Management Challenge**, built using **Power BI** and enhanced with **ZoomCharts** for interactive visuals. The dashboard explores project performance, employee metrics, and regional budget allocation across a simulated FinTech environment.
+This repository contains my submission for the **FP20Analytics Fintech Project Management Challenge**, built using **Power BI** and enhanced with **ZoomCharts** for interactive visuals. The dashboard explores project performance, employee metrics, and regional budget allocation across a simulated FinTech environment for the **Onyx Data November 2025 Challenge 32**.
+
+### Combined View of All Pages  
+![Combined Dashboard](IMG_20251123_231940.jpg)
 
 ---
 
-## 🧠 Dashboard Narrative  
+## Dashboard Narrative  
 The report is structured across four pages, each designed to surface insights through dynamic visuals and layered storytelling.
 
 ### Key Insights:
@@ -31,9 +34,6 @@ The report is structured across four pages, each designed to surface insights th
 
 ### Page 3 – Employee Distribution, Experience-Level Metrics, and Departmental Trends  
 ![Page 3](IMG-20251123-WA0002.jpg)
-
-### Page 4 – Combined View of All Pages  
-![Combined Dashboard](IMG_20251123_231940.jpg)
 
 ---
 
